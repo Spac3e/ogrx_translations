@@ -1,0 +1,2 @@
+# ogrx_translations
+
