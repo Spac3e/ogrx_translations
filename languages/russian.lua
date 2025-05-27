@@ -222,7 +222,7 @@ russian.role.SCI_SPECIAL_SPEED = "Ломао"
 russian.role.SCI_SPECIAL_MINE = "Филон"
 russian.role.SCI_SPECIAL_BOOSTER = "Георг"
 russian.role.SCI_SPECIAL_SHIELD = "Шилдмех"
-russian.role.SCI_SPECIAL_INVISIBLE = "Рупрекхт"
+russian.role.SCI_SPECIAL_INVISIBLE = "Рупрехт"
 russian.role.SCI_SPECIAL_VISION = "Хэдвиг"
 
 
@@ -974,11 +974,8 @@ russian.abilities_cotskpsycho = "Вы полностью восполняете 
 russian.abilities_name_sport = "Бег"
 russian.abilities_sport = "Переключение скорости бега"
 
-russian.abilities_name_uiuagentspec = "Эхолокационная граната"
-russian.abilities_uiuagentspec = "Вы бросаете гранату с эхолокацией, помечая врагов поблизости Вам и Вашим союзникам."
-
-russian.abilities_name_uiuagentcmd = "Токсичная граната"
-russian.abilities_uiuagentcmd = "Вы бросаете гранату, которая испускает токсичный газ, лишь ваш противогаз защищает от этого газа."
+russian.abilities_name_dzpsycho = "Газовая граната"
+russian.abilities_dzpsycho = "Вы бросаете гранату, которая взрывается распространяя токсичный газ, только вы и ваши союзники невосприимчив к этому газу."
 
 --ROLEMENU
 russian.f2_name = "Имя:"

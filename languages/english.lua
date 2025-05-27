@@ -1080,10 +1080,9 @@ english.abilities_name_cotskpsycho = "Last chance"
 english.abilities_cotskpsycho = "Regain your health, boost yourself and then die after 30 seconds."
 english.abilities_name_sport = "Run"
 english.abilities_sport = "Change running speed"
-english.abilities_name_uiuagentspec = "Echo Grenade"
-english.abilities_uiuagentspec = "You throw special grenade which makes echoes around the room, marking every enemy nearby to you and your enemies."
-english.abilities_name_uiuagentcmd = "Toxic Grenade"
-english.abilities_uiuagentcmd = "You throw special grenade which explode with toxic gas, only your gasmask are immune to this gas."
+
+english.abilities_name_dzpsycho = "Toxic Grenade"
+english.abilities_dzpsycho = "You throw special grenade which explode with toxic gas, only your gasmask are immune to this gas."
 
 --ROLEMENU
 english.f2_name = "Name:"
