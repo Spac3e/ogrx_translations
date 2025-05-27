@@ -222,7 +222,7 @@ russian.role.SCI_SPECIAL_SPEED = "Ломао"
 russian.role.SCI_SPECIAL_MINE = "Филон"
 russian.role.SCI_SPECIAL_BOOSTER = "Георг"
 russian.role.SCI_SPECIAL_SHIELD = "Шилдмех"
-russian.role.SCI_SPECIAL_INVISIBLE = "Рупрекхт"
+russian.role.SCI_SPECIAL_INVISIBLE = "Рупрехт"
 russian.role.SCI_SPECIAL_VISION = "Хэдвиг"
 
 
