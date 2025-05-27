@@ -110,7 +110,7 @@ funny.role.SECURITY_Sergeant = "сержант дорнан"
 funny.role.SECURITY_OFFICER = "опытный сб"
 funny.role.SECURITY_Shocktrooper = "мастер сб"
 funny.role.SECURITY_Warden = "пацан СБ"
-funny.role.SECURITY_IMVSOLDIER = "ветеран сб СБ"
+funny.role.SECURITY_IMVSOLDIER = "ветеран сб"
 funny.role.SECURITY_Chief = "кокпитан сб"
 funny.role.SECURITY_Spy = "шпеон пеха"
 
