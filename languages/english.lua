@@ -141,7 +141,7 @@ english.role.SKP_Offizier = "SKP Offizier"
 english.DZ = "Serpent's Hand"
 english.role.DZ_Grunt = "SH Soldier"
 english.role.SCI_SpyDZ = "SH Spy"
-english.role.DZ_Gas = "SH Special Operative"
+english.role.DZ_Gas = "SH Chemist"
 english.role.DZ_Psycho = "SH Psycho"
 english.role.DZ_Commander = "SH Commander"
 
@@ -613,7 +613,7 @@ english["Scientists"] = "Scientists"
 english["Chaos Insurgency"] = "Chaos Insurgency"
 english["Security Department"] = "Security Department"
 english["GRU"] = "Main Intelligence Directorate"
-english["Nine Tailed Fox"] = "Squad \"Nine Tailed Fox\""
+english["Nine Tailed Fox"] = "MTF Epsilon-11 \"Nine Tailed Fox\""
 english["Serpents Hand"] = "Serpants Hand"
 english["Global Occult Coalition"] = "Global Occult Coalition "
 english["Unusual Incidents Unit"] = "Unusual Incident Unit"
@@ -1084,6 +1084,9 @@ english.abilities_sport = "Change running speed"
 english.abilities_name_dzpsycho = "Toxic Grenade"
 english.abilities_dzpsycho = "You throw special grenade which explode with toxic gas, only your gasmask are immune to this gas."
 
+english.abilities_name_mtfspec = "Echolocation Mine"
+english.abilities_mtfspec = "You place a mine that lets you see nearby enemies through your special NVG until it's destroyed."
+
 --ROLEMENU
 english.f2_name = "Name:"
 english.f2_objectives = "Objectives:"
@@ -1091,6 +1094,10 @@ english.f2_char_stats = "Character stats"
 english.f2_health = "Health:"
 english.f2_stamina = "Stamina:"
 english.f2_choose = "Choose a faction in the list on left."
+english.f2_ability_name = "Special ability: "
+english.f2_ability_desc = "Ability description: "
+english.f2_ability_max = "Ability max: "
+
 --заебался короче переводил переводчиком похуй
 english.f2_ntf = "Mobile task force Epsilon-11 protects the SCP foundation from inside. They represent a special operative group, which is deployed on site in case of containment breach. So most of their operations can be classified as SCP containment."
 english.f2_chaos = "The Chaos Insurgency is a splinter group from the Foundation. It was formed when one of the divisions voluntarily left their area, taking with them several extremely useful SCP objects. They use the SCP objects in their possession for their own personal interests. benefits and to bolster global political support."
@@ -1427,6 +1434,8 @@ english.load_tazer = "Insert batteries"
 english.select_faction_ntfcmd = "Select the faction you want to scan from the list. Press BACKSPACE to close the window.."
 english.ntfcmd_factionlist = "Faction list"
 english.ntfcmd_unknowns = "Unknowns"
+
+english.tablet = "Планшет"
 
 --Да будет великий перевод отличным и могущественным. Бисмилляхи рахмани рахим. Аллаху акбар. Аминь.
 

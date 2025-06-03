@@ -902,7 +902,7 @@ tatarian.tasks_osn = "Помощь военному персоналу, защи
 tatarian.tasks_coordinate_osn = "командование отрядом"
 tatarian.tasks_sh = "Спасение SCP-объектов, огневая поддержка SCP"
 tatarian.tasks_coordinate_sh = "координация ДЗ"
-tatarian.tasks_uiu = "Поломка компьютеров, побег"
+tatarian.tasks_uiu = "Взлом компьютеров и камер, побег"
 tatarian.tasks_coordinate_uiu = "координация ОНП"
 tatarian.tasks_cotsk = "Выполнение условий ритуала и призыв Алого Короля"
 tatarian.tasks_coordinate_cotsk = "координация ДАК"
@@ -974,8 +974,11 @@ tatarian.abilities_cotskpsycho = "Вы полностью восполняете
 tatarian.abilities_name_sport = "Бег"
 tatarian.abilities_sport = "Переключение скорости бега"
 
-tatarian.abilities_name_dzpsycho = "Toxic Grenade"
-tatarian.abilities_dzpsycho = "You throw special grenade which explode with toxic gas, only your gasmask are immune to this gas."
+tatarian.abilities_name_dzpsycho = "Газовая граната"
+tatarian.abilities_dzpsycho = "Вы бросаете гранату, которая взрывается распространяя токсичный газ, только вы и ваши союзники невосприимчив к этому газу."
+
+tatarian.abilities_name_mtfspec = "Эхолокационная мина"
+tatarian.abilities_mtfspec = "Вы устанавливаете мину, которая позволяет вам видеть врагов поблизости с помощью специального ПНВ, пока она не будет уничтожена."
 
 --ROLEMENU
 tatarian.f2_name = "Имя:"
@@ -983,6 +986,10 @@ tatarian.f2_objectives = "Задачи:"
 tatarian.f2_char_stats = "Статистики роли"
 tatarian.f2_health = "Здоровье:"
 tatarian.f2_stamina = "Выносливость:"
+tatarian.f2_ability_name = "Способность: "
+tatarian.f2_ability_desc = "Описание способности: "
+tatarian.f2_ability_max = "Кол-во применений: "
+
 tatarian.f2_choose = "Выберите фракцию из предоставленного слева списка."
 tatarian.f2_ntf = "Мобильная опергруппа Эпсилон-11 занимается внутренней безопасностью Фонда SCP. Они представляют собой специальную оперативную группу, развернутую в передах учреждения фонда в случае сбоя стандартных протоколов и неизбежных многочисленных нарушений. Таким образом, большинство их операций классифицируются как Восстановления условий содержания."
 tatarian.f2_chaos = "Повстанцы Хаоса — объединение, отделившееся от Организации. Оно возникло, когда одно из подразделений самовольно покинуло свой участок, взяв с собой несколько крайне полезных SCP-объектов.Они используют SCP-объекты, находящиеся в их распоряжении, в интересах личной выгоды и для укрепления глобальной политической поддержки."
@@ -1250,6 +1257,8 @@ tatarian.load_tazer = "Вставить батарейки"
 tatarian.select_faction_ntfcmd = "Выберите фракцию, которую хотите сканировать, из списка. Нажмите BACKSPACE, чтобы закрыть окно."
 tatarian.ntfcmd_factionlist = "Список фракций"
 tatarian.ntfcmd_unknowns = "Неизвестные"
+
+tatarian.tablet = "Планшет"
 
 --Да будет великий перевод отличным и могущественным. Бисмилляхи рахмани рахим. Аллаху акбар. Аминь.
 
