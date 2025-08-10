@@ -182,8 +182,7 @@ english.role.ClassD_Fat = "Class-D Fat"
 english.role.ClassD_Probitiy = "Class-D Abnormal"
 english.role.ClassD_Thief = "Class-D Thief"
 english.role.ClassD_Cannibal = "Class-D Cannibal"
-english.role.ClassD_Cannibalsp = "Class-D Cannibalsp"
-english.role.ClassD_Fast = "Class-D Sportsman"
+english.role.ClassD_Sportsman = "Class-D Sportsman"
 english.role.ClassD_Killer = "Class-D Killer"
 english.role.ClassD_Hitman = "Class-D Stealthy"
 english.role.ClassD_FartInhaler = "Class-D Fart Inhaler"
@@ -265,6 +264,8 @@ english.weaponry["breach_keycard_guard_4"] = "Guard Key-Card Level 4"
 
 english.weaponry["item_drink_dado_fire"] = "DADO Juice «Carefully, HOT»"
 english.weaponry["item_drink_dado_radioactive"] = "DADO Juice «Radiation taste»"
+english.weaponry["item_drink_dado_speed"] = "DADO Juice «Momentum taste»"
+
 english.weaponry["item_drink_energy"] = "Energy drink"
 english.weaponry["item_drink_soda"] = "Soda can"
 english.weaponry["item_drink_water"] = "Water can"
@@ -285,11 +286,11 @@ english.weaponry["item_medkit_3"] = "Special Care Medkit"
 english.weaponry["item_medkit_4"] = "Universal Medkit"
 english.weaponry["item_pills"] = "Pills"
 
-english.weaponry["item_nightvision_green"] = "NVG"
-english.weaponry["item_nightvision_blue"] = "Improved NVG"
-english.weaponry["item_nightvision_red"] = "Thermal NVG"
-english.weaponry["item_nightvision_goc"] = "Prototype NVG"
-english.weaponry["item_nightvision_white"] = "Prototype NVG"
+english.weaponry["breach_nightvision_green"] = "NVG"
+english.weaponry["breach_nightvision_blue"] = "Improved NVG"
+english.weaponry["breach_nightvision_thermal"] = "Thermal NVG"
+english.weaponry["breach_nightvision_goc"] = "Prototype NVG"
+english.weaponry["breach_nightvision_white"] = "Prototype NVG"
 
 english.weaponry["item_radio"] = "Radio"
 english.weaponry["item_chaos_radio"] = "Unique Radio"
@@ -307,7 +308,7 @@ english.weaponry["copper_coin"] = "Copper Coin"
 english.weaponry["silver_coin"] = "Silver Coin"
 english.weaponry["gold_coin"] = "Gold Coin"
 
-english.weaponry["weapon_special_gaus"] = "Gauss"
+english.weaponry["breach_weapon_gauss"] = "Gauss"
 
 english.weaponry["br_holster"] = "Hands"
 
@@ -318,7 +319,7 @@ english.weaponry["weapon_pass_medic"] = "ID-Card \"Medical Personnel\""
 english.weaponry["weapon_pass_sci"] = "ID-Card \"Science Personnel\""
 
 english.weaponry["weapon_breachmelee_crowbar"] = "Crowbar"
-english.weaponry["weapon_breachmelee_pipe"] = "Wrench"
+english.weaponry["weapon_breachmelee_wrench"] = "Wrench"
 english.weaponry["weapon_breachmelee_hammer"] = "Hammer"
 english.weaponry["weapon_breachmelee_fireaxe"] = "Fire Axe"
 
@@ -736,7 +737,7 @@ BREACH.Descriptions.english[role.ClassD_Bor] = "You - are the Class-D Personnel\
 BREACH.Descriptions.english[role.ClassD_Hack] = "You - are the Class-D Personnel\n\nYou are a smart one, you can hack the doors using your tool you secretly made while you was here\n\nCooperate with other Class-D Personnel to successfully escape from the facility!"
 BREACH.Descriptions.english[role.ClassD_Cannibal] = "You - are the Class-D Personnel\n\nLook's like you gone insane while you was here, you are so insane that you could eat a corpse...\n\nCooperate with other Class-D Personnel to successfully escape from the facility!"
 BREACH.Descriptions.english[role.ClassD_Probitiy] = "You - are the Class-D Personnel\n\nLook's like your pockets are bigger that from the others\n\nCooperate with other Class-D Personnel to successfully escape from the facility!"
-BREACH.Descriptions.english[role.ClassD_Fast] = "You - are the Class-D Personnel\n\nYou are a pretty fast runner\n\nCooperate with other Class-D Personnel to successfully escape from the facility!"
+BREACH.Descriptions.english[role.ClassD_Sportsman] = "You - are the Class-D Personnel\n\nYou are a pretty fast runner\n\nCooperate with other Class-D Personnel to successfully escape from the facility!"
 BREACH.Descriptions.english[role.ClassD_Killer] = "You - are the Class-D Personnel\n\nWhile you were in the complex, you were able to make pocket knife out of shit and sticks, although it is not that durable..\n\nCooperate with other Class-D Personnel to successfully escape from the facility!"
 BREACH.Descriptions.english[role.ClassD_Hitman] = "You - are the Class-D Personnel\n\nYou we're a professional hitman before, looks like you didn't lose your old habits..\n\nCooperate with other Class-D Personnel to successfully escape from the facility!"
 BREACH.Descriptions.english[role.MTF_Guard] = "You - are the Mobile Task Force Grunt\n\nFollow the orders of your commanders and complete your tasks"
@@ -1087,6 +1088,8 @@ english.abilities_dzpsycho = "You throw special grenade which explode with toxic
 english.abilities_name_mtfspec = "Echolocation Mine"
 english.abilities_mtfspec = "You place a mine that lets you see nearby enemies through your special NVG until it's destroyed."
 
+english.abilities_name_chaosdemo = "Claymore"
+english.abilities_chaosmine = "You place a directional mine that detonates when an enemy approaches, causing a powerful explosion in its effective area."
 --ROLEMENU
 english.f2_name = "Name:"
 english.f2_objectives = "Objectives:"
@@ -1181,7 +1184,6 @@ english.cutscene_time_after_disaster = "TIME AFTER DISASTER:"
 english.cutscene_status = "STATUS:"
 english.cutscene_last_report_time = "LAST REPORT TIME:"
 english.cutscene_time_after_disaster_for_last_report_time = "Time after disaster:"
-english.cutscene_location_site19 = ""
 english.cutscene_kia = "DIED"
 english.cutscene_location_site19 = "LOCATION: SITE-19"
 english.cutscene_evac_by_ci = "Evacuated by Chaos Insurgency"
@@ -1348,13 +1350,7 @@ english.nt_ss = "Seconds"
 english.nt_hs = "Hours"
 english.nt_ws = "Weeks"
 
-
-
 english.donateadmin_protectionactivated = "Warning!! You was suspected in attempting of mass ban, your admin rights has been revoked, please contact us thru QQ if it's a misunderstanding"
-
-
-
-
 
 english.desc_premium = "Grants you ability to swap roles when you spawn as a support (except of few important roles); priority to server connection; Special icon near your nickname on scoreboard, chat and voice chat; X2 exp; access to custom functions in game chat; Special appearance as Class-D; Ability to swap SCP when you spawn as one; ability to change nickname color (only applies as a spectator); with premium you'll get special options in settings menu"
 english.desc_newbiekit = "Includes: Premium for 1 month, level 15 (the price of the premium and level 15 together is 625 rubles, you'll save 175 rubles if you buy the kit.)"
@@ -1437,6 +1433,11 @@ english.ntfcmd_unknowns = "Unknowns"
 
 english.tablet = "Планшет"
 
---Да будет великий перевод отличным и могущественным. Бисмилляхи рахмани рахим. Аллаху акбар. Аминь.
+english.donate_cosmetics = "Cosmetics"
+english.buff_chemist = "Buff Chemist"
+english.thicc_security = "Thicc Security Chief"
+english.desc_tf2pyro = "Provides access to a special model for MTF Chemist; can be toggled on and off in the settings after purchase"
+english.desc_thiccboy = "Provides access to a special model for Security Chief; can be toggled on and off in the settings after purchase"
 
+--Да будет великий перевод отличным и могущественным. Бисмилляхи рахмани рахим. Аллаху акбар. Аминь.
 ALLLANGUAGES.english = english
